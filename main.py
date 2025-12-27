@@ -368,7 +368,7 @@ def table(event=None):
     
 
     def make_gapi_request():
-        api_key = "goldapi-fmnsmjkangnk-io"
+        api_key = "goldapi-jasimjs-io"
         symbol = "XAU"
         curr = "GBP"
         date = ""
